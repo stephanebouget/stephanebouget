@@ -17,3 +17,7 @@
 
 - **[Orange Open Source](https://github.com/Orange-OpenSource)** - Contributing to developer tools and open-source initiatives
 - **[KhiopsML](https://github.com/KhiopsML)** - Building data visualization and machine learning tools
+
+## 📈 GitHub Stats
+
+![Stéphane's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=stephanebouget&show_icons=true&theme=transparent&hide_border=false&hide=stars,prs&include_all_commits=true&hide_title=true)
