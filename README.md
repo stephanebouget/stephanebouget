@@ -9,6 +9,7 @@
 - **[powo](https://github.com/stephanebouget/powo)** - Easier, faster internationalization
 - **[img2pdf](https://github.com/stephanebouget/img2pdf)** - Simple and efficient image to PDF converter
 - **[khiops-visualization-desktop](https://github.com/KhiopsML/khiops-visualization-desktop)** - Desktop application for Khiops data visualization *(KhiopsML)*
+- **[QuickFormTranslator](https://github.com/stephanebouget/QuickFormTranslator)** - A Chrome extension that instantly translates form text to English via right-click.
 - **[ngx-khiops-histogram](https://github.com/KhiopsML/ngx-khiops-histogram)** - Angular component library for histogram visualization *(KhiopsML)*
 - **[kc-electron](https://github.com/KhiopsML/kc-electron)** - Khiops Coclustering desktop application *(KhiopsML)*
 - **[kv-electron](https://github.com/KhiopsML/kv-electron)** - Khiops Visualization desktop wrapper *(KhiopsML)*
