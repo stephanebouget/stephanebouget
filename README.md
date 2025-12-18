@@ -17,7 +17,7 @@
 - **[Orange Open Source](https://github.com/Orange-OpenSource)** - Contributing to developer tools and open-source initiatives
 - **[KhiopsML](https://github.com/KhiopsML)** - Building data visualization and machine learning tools
 
-## 🏢 NPM packages
+## <img width="24" height="24" alt="image" src="https://github.com/user-attachments/assets/0f99a202-a558-418d-9155-feb17b058dcd" />  NPM packages
 
 - **[powo-cli](https://www.npmjs.com/package/powo-cli)** - Command-line interface for POWO data management
 - **[powo-v3-typings](https://www.npmjs.com/package/powo-v3-typings)** - Types interfaces for POWO
