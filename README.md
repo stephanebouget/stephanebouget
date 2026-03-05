@@ -2,12 +2,12 @@
 
 ## 🚀 Featured Projects
 
+- **[khiops-visualization-desktop](https://github.com/KhiopsML/khiops-visualization-desktop)** - Desktop application for Khiops data visualization *(KhiopsML)*
 - **[khiops-visualization](https://github.com/KhiopsML/khiops-visualization)** - Interactive data visualization for Khiops ML platform *(KhiopsML)*
 - **[github-security-alerts](https://github.com/stephanebouget/github-security-alerts)** - Automated GitHub security alerts management tool
 - **[vscode-debugger](https://github.com/Orange-OpenSource/vscode-debugger)** - Enhanced debugging experience for VS Code *(Orange Open Source)*
 - **[powo](https://github.com/stephanebouget/powo)** - Easier, faster internationalization
 - **[img2pdf](https://github.com/stephanebouget/img2pdf)** - Simple and efficient image to PDF converter
-- **[khiops-visualization-desktop](https://github.com/KhiopsML/khiops-visualization-desktop)** - Desktop application for Khiops data visualization *(KhiopsML)*
 - **[QuickFormTranslator](https://github.com/stephanebouget/QuickFormTranslator)** - A Chrome extension that instantly translates form text to English via right-click.
 - **[kc-electron](https://github.com/KhiopsML/kc-electron)** - Khiops Coclustering desktop application *(KhiopsML)*
 - **[kv-electron](https://github.com/KhiopsML/kv-electron)** - Khiops Visualization desktop wrapper *(KhiopsML)*
