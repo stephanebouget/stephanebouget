@@ -8,6 +8,7 @@
 - **[vscode-debugger](https://github.com/Orange-OpenSource/vscode-debugger)** - Enhanced debugging experience for VS Code *(Orange Open Source)*
 - **[powo](https://github.com/stephanebouget/powo)** - Easier, faster internationalization
 - **[img2pdf](https://github.com/stephanebouget/img2pdf)** - Simple and efficient image to PDF converter
+- **[Github-Magic-Issue](https://github.com/stephanebouget/Github-Magic-Issue)** - A Chrome extension that translate and generate Github issue title & description in one click.
 - **[QuickFormTranslator](https://github.com/stephanebouget/QuickFormTranslator)** - A Chrome extension that instantly translates form text to English via right-click.
 - **[kc-electron](https://github.com/KhiopsML/kc-electron)** - Khiops Coclustering desktop application *(KhiopsML)*
 - **[kv-electron](https://github.com/KhiopsML/kv-electron)** - Khiops Visualization desktop wrapper *(KhiopsML)*
