@@ -4,7 +4,7 @@
 
 - **[khiops-visualization-desktop](https://github.com/KhiopsML/khiops-visualization-desktop)** - Desktop application for Khiops data visualization *(KhiopsML)*
 - **[khiops-visualization](https://github.com/KhiopsML/khiops-visualization)** - Interactive data visualization for Khiops ML platform *(KhiopsML)*
-- **[khiops-visualization](https://github.com/KhiopsML/khiops)** - AutoML suite for supervised and unsupervised learning *(KhiopsML)*
+- **[khiops](https://github.com/KhiopsML/khiops)** - AutoML suite for supervised and unsupervised learning *(KhiopsML)*
 - **[github-security-alerts](https://github.com/stephanebouget/github-security-alerts)** - Automated GitHub security alerts management tool
 - **[vscode-debugger](https://github.com/Orange-OpenSource/vscode-debugger)** - Enhanced debugging experience for VS Code *(Orange Open Source)*
 - **[powo](https://github.com/stephanebouget/powo)** - Easier, faster internationalization
