@@ -4,6 +4,7 @@
 
 - **[khiops-visualization-desktop](https://github.com/KhiopsML/khiops-visualization-desktop)** - Desktop application for Khiops data visualization *(KhiopsML)*
 - **[khiops-visualization](https://github.com/KhiopsML/khiops-visualization)** - Interactive data visualization for Khiops ML platform *(KhiopsML)*
+- **[khiops-visualization](https://github.com/KhiopsML/khiops)** - AutoML suite for supervised and unsupervised learning *(KhiopsML)*
 - **[github-security-alerts](https://github.com/stephanebouget/github-security-alerts)** - Automated GitHub security alerts management tool
 - **[vscode-debugger](https://github.com/Orange-OpenSource/vscode-debugger)** - Enhanced debugging experience for VS Code *(Orange Open Source)*
 - **[powo](https://github.com/stephanebouget/powo)** - Easier, faster internationalization
@@ -25,8 +26,3 @@
 - **[khiops-visualization](https://www.npmjs.com/package/khiops-visualization)** - NPM package for Khiops Visualization & Covisualization Components
 - **[ngx-khiops-histogram](https://www.npmjs.com/package/ngx-khiops-histogram)** -  NPM package for Khiops histogram Component
 - **[stephanebouget.chart.js](https://www.npmjs.com/package/stephanebouget.chart.js)** - A fork of Chart.js 3.9.1 to draw histograms with dynamic sizes
-
-
-## 📈 GitHub Stats
-
-![Stéphane's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=stephanebouget&show_icons=true&theme=transparent&hide_border=false&hide=stars,prs&include_all_commits=true&hide_title=true)
